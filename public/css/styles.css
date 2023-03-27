@@ -102,6 +102,6 @@ footer {
 
 @media (max-width: 480px) {
   input[type="text"] {
-    padding-left: 6px;
+    padding-right: 6px;
   }
 }
