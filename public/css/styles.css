@@ -1,13 +1,21 @@
-html {
+body {
   background-color: #E4E9FD;
   background-image: -webkit-linear-gradient(65deg, #f09ead 50%, #E4E9FD 50%);
   min-height: 1000px;
   font-family: "Helvetica neue", Helvetica, sans-serif;
 }
 
+/* body {
+  text-align: center;
+} */
+
 h1 {
   color: #fff;
   padding: 10px;
+}
+
+.container-fluid {
+  padding: 7% 15%;
 }
 
 .box {
