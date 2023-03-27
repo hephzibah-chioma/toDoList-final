@@ -62,7 +62,7 @@ form.item {
 
 button {
 /*   min-height: 50px; */
-  width: 50px;
+/*   width: 50px; */
   border-radius: 50%;
   border-color: transparent;
   background-color: #f09ead;
@@ -71,6 +71,7 @@ button {
   padding-bottom: 6px;
   border-width: 0;
   text-align: center;
+  margin-right: 8px;
 }
 
 input[type="text"] {
@@ -100,8 +101,8 @@ footer {
   text-align: center;
 }
 
-@media (max-width: 480px) {
+@media (min-width: 1200px) {
   button {
-    margin-right: 8px;
-    text-align: left;
+     min-height: 50px;
+     width: 50px;
 }
