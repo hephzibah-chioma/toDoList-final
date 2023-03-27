@@ -62,13 +62,13 @@ form.item {
 
 button {
 /*   min-height: 50px; */
-  max-width: 70px;
+  max-width: 50px;
   border-radius: 50%;
   border-color: transparent;
   background-color: #f09ead;
   color: #fff;
-  font-size: 30px;
-  padding-bottom: 6px;
+  font-size: 20px;
+/*   padding-bottom: 6px; */
   border-width: 0;
   text-align: center;
   margin-right: 8px;
