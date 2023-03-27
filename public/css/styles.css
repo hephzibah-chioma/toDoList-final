@@ -70,6 +70,7 @@ button {
   font-size: 30px;
   padding-bottom: 6px;
   border-width: 0;
+  text-align: center;
 }
 
 input[type="text"] {
