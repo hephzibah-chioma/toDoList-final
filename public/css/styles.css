@@ -101,7 +101,6 @@ footer {
 }
 
 @media (max-width: 480px) {
-  input[type="text"] {
-    padding-right: 6px;
-  }
+  button {
+    margin-right: 6px;
 }
