@@ -1,4 +1,4 @@
-body {
+html {
   background-color: #E4E9FD;
   background-image: -webkit-linear-gradient(65deg, #f09ead 50%, #E4E9FD 50%);
   min-height: 1000px;
@@ -14,13 +14,9 @@ h1 {
   padding: 10px;
 }
 
-.container-fluid {
-  padding: 7% 15%;
-}
-
 .box {
   max-width: 400px;
-  margin: auto;
+  margin: 50px auto;
   background: white;
   border-radius: 5px;
   box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
