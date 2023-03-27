@@ -68,7 +68,7 @@ button {
   background-color: #f09ead;
   color: #fff;
   font-size: 30px;
-  padding: 2%;
+  padding: 2% 5%;
   border-width: 0;
   text-align: center;
   margin-right: 8px;
@@ -105,4 +105,5 @@ footer {
   button {
      min-height: 50px;
      width: 50px;
+     padding: 2%;
 }
