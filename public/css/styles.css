@@ -62,7 +62,7 @@ form.item {
 
 button {
   min-height: 50px;
-  max-width: 50px;
+  width: 50px;
   border-radius: 50%;
   border-color: transparent;
   background-color: #f09ead;
@@ -98,4 +98,10 @@ footer {
   color: white;
   color: rgba(0, 0, 0, 0.5);
   text-align: center;
+}
+
+@media (max-width: 480px) {
+  input[type="text"] {
+    padding-left: 6px;
+  }
 }
